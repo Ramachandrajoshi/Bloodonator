@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "935962194960",
+    "firebase_url": "https://bloodonator-3eaca.firebaseio.com",
+    "project_id": "bloodonator-3eaca",
+    "storage_bucket": "bloodonator-3eaca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935962194960:android:9316ceb57870d5f1",
+        "android_client_info": {
+          "package_name": "yuvabharat.ramu.bloodonator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935962194960-ac53vjj22hsh0d28mrn83d3vjj2elpnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yuvabharat.ramu.bloodonator",
+            "certificate_hash": "13f21fb3da014f1be4ced1f4e287e7448506fef4"
+          }
+        },
+        {
+          "client_id": "935962194960-jp808htihtkant2dk4o7erf7ufni38hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt9kOFCftYhIf9J-OPTMWU3nOSBKpxIfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935962194960-jp808htihtkant2dk4o7erf7ufni38hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
